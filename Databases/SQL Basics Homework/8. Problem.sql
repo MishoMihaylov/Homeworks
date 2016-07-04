@@ -1,0 +1,1 @@
+SELECT FirstName, LastName, FirstName + '.' + LastName + '@SoftUni.bg' as Email FROM Employees 
